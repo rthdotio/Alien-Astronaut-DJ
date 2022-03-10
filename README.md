@@ -1,5 +1,6 @@
 # Alien Astronaut DJs 
 Official Public Codebase  
+Check out our [testnet deployment!](https://ropsten.etherscan.io/address/0x759e931a2a2e21C242d907F40ab4B921fE0807f5)
  
 ## What are Alien Astronaut DJs? 
 Alien Astronaut DJs (alasDJs for short) are a collection of 1000 erc-721 NFTs. Each token has a unique image of an alasDJ, as well as an 'instrument' that produces a unique sound. These DJs can be used to generate songs in the [DJ Studio](https://alasdj.com/studio). Songs can be minted as erc-721 tokens that can be traded separately from the alasDJs. Each song is unique and whenever a song is sold on [Opensea](https://opensea.io/) the owners of the DJs used in the song can collect royalties.  
